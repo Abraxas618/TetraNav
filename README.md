@@ -22,8 +22,8 @@ This system leverages:
 ---
 
 ## 📄 Full Whitepaper
-
-- 📥 [Download TetraNav Full PDF via IPFS](https://ipfs.io/ipfs/bafybeigkfauxvgusfaya4taualhlkpj2xqa7c4i2ry3mn3no7lehifjeji)
+https://ipfs.io/ipfs/bafybeie5jabhyr4lqak37z2pw2ozv4qejxhempojeaglciih5g4fzkonpy
+- 📥 [Download TetraNav Full PDF via IPFS](https://ipfs.io/ipfs/bafybeie5jabhyr4lqak37z2pw2ozv4qejxhempojeaglciih5g4fzkonpy)
 
 - 📖 [View Full Source Repository on GitHub](https://github.com/Abraxas618/TetraUnified)
 
