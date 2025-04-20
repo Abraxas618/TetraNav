@@ -1,0 +1,6 @@
+numpy
+smbus2
+RPi.GPIO
+Adafruit-BNO08x
+Adafruit-SSD1306
+Pillow
