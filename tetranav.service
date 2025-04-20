@@ -1,0 +1,18 @@
+# TetraNav Proto-1 Systemd Service
+# Author: Michael Tass MacDonald (Abraxas618)
+# Date: April 2025
+
+[Unit]
+Description=TetraNav Proto-1 Navigation System
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/TetraNav/tetranav_main.py
+WorkingDirectory=/home/pi/TetraNav
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
