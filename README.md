@@ -27,7 +27,7 @@ https://ipfs.io/ipfs/bafybeie5jabhyr4lqak37z2pw2ozv4qejxhempojeaglciih5g4fzkonpy
 
 - 📖 [View Full Source Repository on GitHub](https://github.com/Abraxas618/TetraUnified)
 
-- 🏛️ [View Public Archive on Archive.org](https://archive.org/details/TetraNav-Quantum-Navigation)
+- 🏛️ [View Public Archive on Archive.org](https://web.archive.org/web/20250420214656/https://github.com/Abraxas618/TetraNav)
 
 ---
 
