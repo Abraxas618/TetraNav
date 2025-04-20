@@ -1,3 +1,84 @@
+# 📡 TetraNav: A Post-Quantum Tetrahedral Hyperdimensional Navigation Framework
+
+## 📚 Overview
+**TetraNav** is the world's first fully open-source hyperdimensional inertial navigation platform,  
+designed to operate independently of GPS, resistant to quantum disruption, gravitational anomalies, and electromagnetic warfare.
+
+This system leverages:
+
+- Phase-Locked Tetrahedral Morphogenetic Fields
+- Golden Spiral Drift Correction Algorithms
+- Tensor (Caduceus) Scalar Field Coils
+- Tesla Scalar Stabilization Arrays
+- Causal Pathfinding Engines (Post-Quantum AI)
+
+---
+
+## 👤 Author
+
+**Michael Tass MacDonald** *(Abraxas618)*  
+[ORCID: 0009-0005-6468-7651](https://orcid.org/0009-0005-6468-7651)
+
+---
+
+## 📄 Full Whitepaper
+
+- 📥 [Download TetraNav Full PDF via IPFS](https://ipfs.io/ipfs/bafybeigkfauxvgusfaya4taualhlkpj2xqa7c4i2ry3mn3no7lehifjeji)
+
+- 📖 [View Full Source Repository on GitHub](https://github.com/Abraxas618/TetraUnified)
+
+- 🏛️ [View Public Archive on Archive.org](https://archive.org/details/TetraNav-Quantum-Navigation)
+
+---
+
+## 🛰️ System Components
+
+- 🛸 Tetrahedral Hyperdimensional Algebra (THA)
+- 🛡️ Scalar Tensor (Caduceus) Coils
+- ⚡ Tesla Coil Driven Scalar Field Stabilizers
+- 🔄 Golden Spiral Drift Compensation
+- 🧠 Quantum Noise Ruggedization AI
+- 🧭 Causal Phase-Locked Pathfinding Engine
+
+---
+
+## 📦 Repository Structure
+
+| Folder/File | Description |
+|:------------|:------------|
+| `tetranav_main.py` | Main navigation runtime script |
+| `system_architecture/` | Full logical and electrical schematics |
+| `prototype_designs/` | Tensor Coil blueprints, Tesla stabilizer array designs |
+| `telemetry/` | Recorded drift correction telemetry logs |
+| `README.md` | Project summary and references |
+
+---
+
+## 📜 License
+
+This project is licensed under the **Open Source Sovereign Systems License (OS3L)**:
+- Open-source civilian use permitted.
+- Military proprietary monopolization explicitly prohibited.
+- Scalar, gravimetric, and post-quantum technologies must remain open for humanity.
+
+---
+
+## 🔗 Links and Resources
+
+- [ORCID Profile](https://orcid.org/0009-0005-6468-7651)
+- [IPFS Decentralized Archive](https://ipfs.io/ipfs/bafybeigkfauxvgusfaya4taualhlkpj2xqa7c4i2ry3mn3no7lehifjeji)
+- [Archive.org Public Backup](https://archive.org/details/TetraNav-Quantum-Navigation)
+
+---
+
+## ✨ Mission Statement
+
+> "Anchor the unseen, chart the uncharted.  
+> Through TetraNav, humanity reclaims its place among the stars."
+
+---
+
+# 🚀
 
 https://ipfs.io/ipfs/bafybeigkfauxvgusfaya4taualhlkpj2xqa7c4i2ry3mn3no7lehifjeji IPFS to paper
 
