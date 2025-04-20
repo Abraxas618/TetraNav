@@ -1,3 +1,6 @@
+
+https://ipfs.io/ipfs/bafybeigkfauxvgusfaya4taualhlkpj2xqa7c4i2ry3mn3no7lehifjeji IPFS to paper
+
 TetraNav: A Post-Quantum Tetrahedral
  Hyperdimensional Navigation
  Framework
